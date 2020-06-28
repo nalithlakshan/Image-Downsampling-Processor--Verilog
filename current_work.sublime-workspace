@@ -1,0 +1,1044 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"da",
+				"data_bus"
+			],
+			[
+				"r",
+				"r_out"
+			],
+			[
+				"red",
+				"red_led"
+			],
+			[
+				"pc",
+				"pc_out"
+			],
+			[
+				"stat",
+				"status_led"
+			],
+			[
+				"be",
+				"begin\t(instruction_decoder.v)"
+			],
+			[
+				"clk",
+				"clock50"
+			],
+			[
+				"S",
+				"STOP"
+			],
+			[
+				"H",
+				"H2MAR"
+			],
+			[
+				"JU",
+				"JUMPX"
+			],
+			[
+				"PP",
+				"PP2H"
+			],
+			[
+				"ST",
+				"STR"
+			],
+			[
+				"L",
+				"LDP1"
+			],
+			[
+				"p_reg",
+				"p_reg_write_en"
+			],
+			[
+				"b_bus",
+				"b_bus_select"
+			],
+			[
+				"b_b",
+				"b_bus_select"
+			],
+			[
+				"data",
+				"data_write_en"
+			],
+			[
+				"fla",
+				"x_flag"
+			],
+			[
+				"ins",
+				"instruction_bus"
+			],
+			[
+				"data_",
+				"data_bus"
+			],
+			[
+				"clo",
+				"clock\t(data_memory.v)"
+			],
+			[
+				"in",
+				"instruction_memory\t(instruction_memory.v)"
+			],
+			[
+				"A",
+				"A_bus\t(alu.v)"
+			],
+			[
+				"alu",
+				"alu_select"
+			],
+			[
+				"y",
+				"y_flag"
+			],
+			[
+				"x",
+				"x_flag"
+			],
+			[
+				"b_",
+				"b_bus_select"
+			],
+			[
+				"b",
+				"b_bus"
+			],
+			[
+				"o",
+				"out\t(reg_mux.v)"
+			],
+			[
+				"p",
+				"p_out"
+			],
+			[
+				"reg",
+				"reg_mux\t(reg_mux.v)"
+			],
+			[
+				"c",
+				"c_bus"
+			],
+			[
+				"c_",
+				"c_bus_select"
+			],
+			[
+				"wi",
+				"write_en"
+			],
+			[
+				"regi",
+				"register_g\t(register_g.v)"
+			],
+			[
+				"p_re",
+				"p_reg_write_en"
+			],
+			[
+				"dat",
+				"data_bus"
+			],
+			[
+				"d",
+				"data_out"
+			],
+			[
+				"out",
+				"data_out"
+			],
+			[
+				"ou",
+				"Output"
+			],
+			[
+				"tra",
+				"transmitter_start"
+			],
+			[
+				"nu",
+				"number_of_pixels"
+			],
+			[
+				"beg",
+				"begin"
+			],
+			[
+				"end",
+				"end"
+			],
+			[
+				"rec",
+				"reciever_ready"
+			],
+			[
+				"mem",
+				"mem_addrass"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"r_Rx",
+				"r_Rx_DV"
+			],
+			[
+				"res",
+				"reciever_state"
+			],
+			[
+				"re",
+				"reciever"
+			],
+			[
+				"tran",
+				"transmitter_wait"
+			],
+			[
+				"trans",
+				"transmitter_state"
+			],
+			[
+				"transmitter_",
+				"transmitter_start"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test_processer1.v",
+			"settings":
+			{
+				"buffer_size": 3189,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nSystemVerilog\n-------------\n\n  SystemVerilog 2.21.7 Changelog:\n  \n  ## Bug Fix ##\n    - Tooltip :\n      * Fix regression for functions\n      * Support for extended class\n    - Beautifier :\n      * Fix potential issue with block comment before block end keyword\n      * Improve auto text selection to try to correctly capture full block of code\n\n  SystemVerilog 2.21.6 Changelog:\n  \n  ## Bug Fix ##\n    - Syntax Highlight :\n      * Enum: support concatenation in enum declaration value\n    - Parsing : fix performance issue for function popup when defined out-of-block in alrge files\n\n  SystemVerilog 2.21.5 Changelog:\n  \n  ## Bug Fix ##\n    - Syntax Highlight :\n      * Support randsequence\n\n  SystemVerilog 2.21.4 Changelog:\n  \n  ## Bug Fix ##\n    - Alignment:\n      * Fix case of user type with packed array\n      * Support ref in module port declaration\n  \n    - Highlight:\n      * Fix virtual keyword not highlighted in some cases\n\n  SystemVerilog 2.21.3 Changelog:\n  \n  ## Bug Fix ##\n    - Syntax Highlight :\n      * Allow more than one space for endfunction/endtask\n      * Fix signed/unsigned not highlighted in function ports\n      * Improve struct assignement highlight (highlight was broken between end of struct and ;)\n    - Auto-completion :\n      * Struct: Add default\n      * Support array of struct\n      * Case : suuport structure fields\n",
+			"settings":
+			{
+				"buffer_size": 1405,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "instructions.mif",
+			"settings":
+			{
+				"buffer_size": 1452,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Lahiru Nawarathna/Desktop/fpga test projects/ram_test/ram_test.v",
+			"settings":
+			{
+				"buffer_size": 11155,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "flag.v",
+			"settings":
+			{
+				"buffer_size": 270,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "instruction_decoder.v",
+			"settings":
+			{
+				"buffer_size": 9179,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Lahiru Nawarathna/Desktop/OrCAD designs/netlist/netlist.log",
+			"settings":
+			{
+				"buffer_size": 2708,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Lahiru Nawarathna/Desktop/OrCAD designs/netlist/netrev.lst",
+			"settings":
+			{
+				"buffer_size": 3710,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Lahiru Nawarathna/Desktop/OrCAD designs/netlist/pstchip.dat",
+			"settings":
+			{
+				"buffer_size": 15504,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Lahiru Nawarathna/Desktop/OrCAD designs/netlist/pstxnet.dat",
+			"settings":
+			{
+				"buffer_size": 36561,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "alu.v",
+			"settings":
+			{
+				"buffer_size": 397,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "115.mif",
+			"settings":
+			{
+				"buffer_size": 1049554,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "reg_mux.v",
+			"settings":
+			{
+				"buffer_size": 352,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "register_p.v",
+			"settings":
+			{
+				"buffer_size": 536,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "register_pc.v",
+			"settings":
+			{
+				"buffer_size": 417,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "instruction_memory.v",
+			"settings":
+			{
+				"buffer_size": 7313,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "register_g.v",
+			"settings":
+			{
+				"buffer_size": 293,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 165.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Lahiru Nawarathna/Desktop/fpga test projects/test_processer1/bin2bcd.v",
+		"/C/Users/Lahiru Nawarathna/AppData/Local/Temp/Temp1_diglab1.zip/diglab1/hex_7seg.v",
+		"/C/Users/Lahiru Nawarathna/Desktop/fpga test projects/test_processer1/115.hex",
+		"/C/Users/Lahiru Nawarathna/AppData/Local/Temp/Temp1_diglab1.zip/diglab1/diglab1.v",
+		"/C/Users/Lahiru Nawarathna/Desktop/fpga test projects/test_processer1/115.mif",
+		"/C/Users/Lahiru Nawarathna/Desktop/fpga test projects/test_processer1/current_work.sublime-workspace",
+		"/C/Users/Lahiru Nawarathna/AppData/Local/Temp/Temp1_diglab1.zip/diglab1/DE2_Default.v",
+		"/C/Users/Lahiru Nawarathna/Downloads/7076551.ppt",
+		"/C/Users/Lahiru Nawarathna/Desktop/fpga test projects/test_processer1/data_memory.v",
+		"/C/Users/Lahiru Nawarathna/Desktop/fpga test projects/test_processer1/register_pc.v",
+		"/C/Users/Lahiru Nawarathna/Desktop/fpga test projects/test_processer1/reg_mux.v",
+		"/C/Users/Lahiru Nawarathna/Desktop/fpga test projects/test_processer1/flag.v",
+		"/C/Users/Lahiru Nawarathna/Desktop/fpga test projects/test_processer1/alu.v",
+		"/C/Users/Lahiru Nawarathna/Desktop/fpga test projects/test_processer1/register_p.v",
+		"/C/Users/Lahiru Nawarathna/Desktop/fpga test projects/nalith_processer/module top_processor.v",
+		"/C/Users/Lahiru Nawarathna/Desktop/fpga test projects/test_processer1/alu1.sv",
+		"/C/Users/Lahiru Nawarathna/Desktop/fpga test projects/test_processer1/test_processer1.v",
+		"/C/Users/Lahiru Nawarathna/Desktop/fpga test projects/test_processer1/register_pc",
+		"/C/Users/Lahiru Nawarathna/Desktop/fpga test projects/ram_test/ram_test.v"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"output",
+			"8'b00"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"wire",
+			"6'b"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 13,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test_processer1.v",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								243,
+								243
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1405,
+								1405
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "instructions.mif",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Lahiru Nawarathna/Desktop/fpga test projects/ram_test/ram_test.v",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3236,
+								3244
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2679.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "flag.v",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 270,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "instruction_decoder.v",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								367,
+								367
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 114.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/Lahiru Nawarathna/Desktop/OrCAD designs/netlist/netlist.log",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2708,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/Lahiru Nawarathna/Desktop/OrCAD designs/netlist/netrev.lst",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3710,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/Lahiru Nawarathna/Desktop/OrCAD designs/netlist/pstchip.dat",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15504,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/Lahiru Nawarathna/Desktop/OrCAD designs/netlist/pstxnet.dat",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 11058.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "alu.v",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "115.mif",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1049554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "reg_mux.v",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "register_p.v",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "register_pc.v",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 417,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "instruction_memory.v",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 513.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "register_g.v",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

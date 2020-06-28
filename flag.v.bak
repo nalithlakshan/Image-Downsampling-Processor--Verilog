@@ -1,0 +1,13 @@
+module flag (
+	input [15:0]x_reg, // Input from the X register 
+	input [15:0]y_reg, // Input from the Y register
+	output x_flag,     // high if X<128
+	output y_flag      // high if Y<128
+);
+
+assign x_flag = (x_reg<128)? 1:0 ;
+assign y_flag = (y_reg<128)? 1:0 ;
+
+endmodule
+
+

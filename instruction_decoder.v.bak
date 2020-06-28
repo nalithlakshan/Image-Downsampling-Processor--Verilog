@@ -1,0 +1,52 @@
+module instruction_decoder(
+	input  [5:0] opcode,
+	input  x_flag,y_flag,start_flag
+	output data_write_en,
+	output [2:0]b_bus_select,
+	output [6:0]c_bus_select,
+	output [1:0]p_reg_select,p_reg_write_en,
+	output [2:0]alu_select,
+	output pc_en,
+	output stop_flag
+	);
+
+
+  parameter NOOP  =6'b000001;
+  parameter LDP1  =6'b000010;
+  parameter LDP2  =6'b000011;
+  parameter LDP3  =6'b000100;
+  parameter LDP4  =6'b000101;
+  parameter CAL   =6'b000110;
+  parameter STR   =6'b000111;
+  parameter PP2H  =6'b001000;
+  parameter H2PP  =6'b001001;
+  parameter ADD   =6'b001010;
+  parameter SUB   =6'b001011;
+  parameter INH1  =6'b001100;
+  parameter INH2  =6'b001101;
+  parameter CLH   =6'b001110;
+  parameter CLX   =6'b001111;
+  parameter CLY   =6'b010000;
+  parameter INX   =6'b010001;
+  parameter INY   =6'b010010;
+  parameter JUMPX =6'b010011;
+  parameter JUMPY =6'b010100;
+  parameter H2MAR =6'b010101;
+  parameter PP2MAR=6'b010110;
+  parameter STOP  =6'b010111;
+ 
+always @* begin 
+
+	if (start_flag) begin
+
+		case (opcode) 
+			NOOP:
+
+
+		endcase 
+	end 
+end
+
+
+
+endmodule // instruction_decoder
